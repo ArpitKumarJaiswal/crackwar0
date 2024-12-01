@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-bot:
-    runs-on: ubuntu-latest
+    runs-on: lodu
 
     steps:
       - name: Checkout repository
